@@ -9,3 +9,6 @@
     * [automaton3](./automaton3)
 * オートマトン（DFA）
     * [automaton4](./automaton4)
+
+なお、記事の画像はLaTeXで生成しています。そのソースは [usami-k/zenn-contents](https://github.com/usami-k/zenn-contents) リポジトリの `images/usami_automaton_images` に置いています。
+
